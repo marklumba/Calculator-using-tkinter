@@ -3,3 +3,6 @@ In this example, we create a Calculator class that inherits from tk.Tk, which is
 The create_widgets method creates the display using an tk.Entry widget, and calls the create_button method to create the buttons for each of the numbers, operators, and other functions.
 
 The click method is called whenever a button is clicked and performs the appropriate action based on the text of the button
+![Alt text](https://github.com/)
+
+
